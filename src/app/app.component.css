@@ -5,3 +5,13 @@ p {
 .linechart-container {
   display: flex;
 }
+
+.comparison {
+  display: flex;
+  gap: 30px;
+}
+
+.death-rate {
+  display: flex;
+  flex-direction: column;
+}
