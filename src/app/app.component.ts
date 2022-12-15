@@ -46,11 +46,13 @@ export class AppComponent {
         from: 14,
         to: 15
       }],
+
     },
     yAxis: {
       title: {
         text: 'Deaths*',
       },
+      gridLineWidth: 0,
     },
     legend: {
       enabled: false,
