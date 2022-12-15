@@ -75,6 +75,34 @@ export class AppComponent {
           enabled: false,
         },
       },
+      {
+        name: 'CVD2',
+        color: '#C42526',
+        dashStyle: 'ShortDash',
+        data: [11, 10, 14, 11, 10, 14, 11, 10, 14, 11, 10, 14, 11, 10, 14, 11],
+        marker: {
+          enabled: false,
+        },
+      },
+      {
+        name: 'ISCHEMIC CVD2',
+        color: '#000000',
+        dashStyle: 'ShortDash',
+        data: [15, 17, 13, 15, 17, 13, 15, 17, 13, 15, 17, 13, 15, 17, 13, 15],
+        marker: {
+          enabled: false,
+        },
+      },
+      {
+        name: 'Cancer2',
+        color: '#606060',
+        dashStyle: 'ShortDash',
+        data: [70, 17, 13, 15, 17, 13, 40, 17, 13, 15, 17, 13, 81, 17, 82, 15],
+        marker: {
+          enabled: false,
+        },
+      },
     ],
+    
   };
 }
