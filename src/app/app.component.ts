@@ -42,7 +42,7 @@ export class AppComponent {
         "'19",
       ],
       plotBands: [{
-        color: 'grey',
+        color: '#E9E9E9',
         from: 14,
         to: 15
       }],
