@@ -41,6 +41,11 @@ export class AppComponent {
         "'18",
         "'19",
       ],
+      plotBands: [{
+        color: 'grey',
+        from: 14,
+        to: 15
+      }],
     },
     yAxis: {
       title: {
