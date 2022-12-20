@@ -61,7 +61,7 @@ export class AppComponent {
       {
         name: 'CVD',
         color: '#C42526',
-        data: [1, 0, 4, 1, 0, 4, 1, 0, 4, 1, 0, 4, 1, 0, 4, 1],
+        data: [346, 337, 340, 336, 330, 327, 317, 297, 285, 274, 265, 266, 269, 276, 284, 291],
         marker: {
           enabled: false,
         },
@@ -69,7 +69,7 @@ export class AppComponent {
       {
         name: 'ISCHEMIC CVD',
         color: '#000000',
-        data: [5, 7, 3, 5, 7, 3, 5, 7, 3, 5, 7, 3, 5, 7, 3, 5],
+        data: [238, 228, 226, 220, 214, 210, 201, 185, 176, 166, 158, 157, 157, 159, 165, 170],
         marker: {
           enabled: false,
         },
@@ -77,7 +77,7 @@ export class AppComponent {
       {
         name: 'Cancer',
         color: '#606060',
-        data: [20, 7, 3, 5, 7, 3, 50, 7, 3, 5, 7, 3, 51, 7, 32, 5],
+        data: [212, 212, 216, 216, 214, 214, 213, 208, 208, 209, 209, 212, 216, 221, 229, 235],
         marker: {
           enabled: false,
         },
